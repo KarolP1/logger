@@ -1,0 +1,50 @@
+[2024-11-16T16:24:09.038Z][MyApp - INFO] 
+╔══════╤═════╗
+║ name │ age ║
+╟──────┼─────╢
+║ John │ 30  ║
+╟──────┼─────╢
+║ Jane │ 25  ║
+╚══════╧═════╝
+ 
+[2024-11-16T16:24:09.034Z][MyApp - INFO] [MyApp - INFO] This is an info message. 
+[2024-11-16T16:24:09.247Z][MyApp - INFO] 
+╔══════╤═════╗
+║ name │ age ║
+╟──────┼─────╢
+║ John │ 30  ║
+╟──────┼─────╢
+║ Jane │ 25  ║
+╚══════╧═════╝
+ 
+[2024-11-16T16:24:09.242Z][MyApp - INFO] [MyApp - INFO] This is an info message. 
+[2024-11-16T16:24:27.020Z][MyApp - INFO] [MyApp - INFO] This is an info message. 
+[2024-11-16T16:24:27.024Z][MyApp - INFO] 
+╔══════╤═════╗
+║ name │ age ║
+╟──────┼─────╢
+║ John │ 30  ║
+╟──────┼─────╢
+║ Jane │ 25  ║
+╚══════╧═════╝
+ 
+[2024-11-16T16:24:30.124Z][MyApp - INFO] [MyApp - INFO] This is an info message. 
+[2024-11-16T16:24:30.128Z][MyApp - INFO] 
+╔══════╤═════╗
+║ name │ age ║
+╟──────┼─────╢
+║ John │ 30  ║
+╟──────┼─────╢
+║ Jane │ 25  ║
+╚══════╧═════╝
+ 
+[2024-11-16T16:24:30.332Z][MyApp - INFO] [MyApp - INFO] This is an info message. 
+[2024-11-16T16:24:30.336Z][MyApp - INFO] 
+╔══════╤═════╗
+║ name │ age ║
+╟──────┼─────╢
+║ John │ 30  ║
+╟──────┼─────╢
+║ Jane │ 25  ║
+╚══════╧═════╝
+ 

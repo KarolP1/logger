@@ -1,0 +1,12 @@
+[2024-11-16T16:24:09.243Z][MyApp - LOG] [MyApp - LOG] This is a general log message. 
+[2024-11-16T16:24:09.247Z][MyApp - LOG] [MyApp - LOG] This log is muted and will not be shown. 
+[2024-11-16T16:24:09.247Z][MyApp - LOG] [MyApp - LOG] This log is visible again. 
+[2024-11-16T16:24:27.021Z][MyApp - LOG] [MyApp - LOG] This is a general log message. 
+[2024-11-16T16:24:27.025Z][MyApp - LOG] [MyApp - LOG] This log is muted and will not be shown. 
+[2024-11-16T16:24:27.025Z][MyApp - LOG] [MyApp - LOG] This log is visible again. 
+[2024-11-16T16:24:30.128Z][MyApp - LOG] [MyApp - LOG] This log is visible again. 
+[2024-11-16T16:24:30.128Z][MyApp - LOG] [MyApp - LOG] This log is muted and will not be shown. 
+[2024-11-16T16:24:30.125Z][MyApp - LOG] [MyApp - LOG] This is a general log message. 
+[2024-11-16T16:24:30.333Z][MyApp - LOG] [MyApp - LOG] This is a general log message. 
+[2024-11-16T16:24:30.336Z][MyApp - LOG] [MyApp - LOG] This log is muted and will not be shown. 
+[2024-11-16T16:24:30.336Z][MyApp - LOG] [MyApp - LOG] This log is visible again. 

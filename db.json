@@ -1,0 +1,54 @@
+{
+  "LOG": [
+    {
+      "id": "5dc2",
+      "level": "LOG",
+      "message": "\u001b[38;2;0;255;0m[MyApp - LOG] This is a general log message.\u001b[39m",
+      "timestamp": "2024-11-16T15:28:28.106Z"
+    },
+    {
+      "id": "04e5",
+      "level": "LOG",
+      "message": "\u001b[38;2;0;255;0m[MyApp - LOG] This log is visible again.\u001b[39m",
+      "timestamp": "2024-11-16T15:28:28.113Z"
+    }
+  ],
+  "ERROR": [
+    {
+      "id": "1104",
+      "level": "ERROR",
+      "message": "\u001b[38;2;255;0;0m[MyApp - ERROR] This is an error message.\u001b[39m",
+      "timestamp": "2024-11-16T15:28:28.108Z"
+    }
+  ],
+  "WARN": [
+    {
+      "id": "3cf6",
+      "level": "WARN",
+      "message": "\u001b[38;2;255;255;0m[MyApp - WARN] This is a warning.\u001b[39m",
+      "timestamp": "2024-11-16T15:28:28.108Z"
+    }
+  ],
+  "INFO": [
+    {
+      "id": "fa84",
+      "level": "INFO",
+      "message": "\u001b[38;2;0;0;255m[MyApp - INFO] { LOG: \u001b[33mfalse\u001b[39m\u001b[38;2;0;0;255m, ERROR: \u001b[33mtrue\u001b[39m\u001b[38;2;0;0;255m, WARN: \u001b[33mtrue\u001b[39m\u001b[38;2;0;0;255m, INFO: \u001b[33mtrue\u001b[39m\u001b[38;2;0;0;255m, DEBUG: \u001b[33mfalse\u001b[39m\u001b[38;2;0;0;255m }\u001b[39m",
+      "timestamp": "2024-11-16T15:27:09.417Z"
+    },
+    {
+      "id": "65f4",
+      "level": "INFO",
+      "message": "\u001b[38;2;0;0;255m[MyApp - INFO] This is an info message.\u001b[39m",
+      "timestamp": "2024-11-16T15:27:09.427Z"
+    },
+    {
+      "id": "8f25",
+      "level": "INFO",
+      "message": "\u001b[38;2;0;0;255m[MyApp - INFO] This is an info message.\u001b[39m",
+      "timestamp": "2024-11-16T15:28:28.092Z"
+    }
+  ],
+  "DEBUG": [],
+  "general": []
+}
