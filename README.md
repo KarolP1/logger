@@ -63,6 +63,7 @@ logger.table(users);
 ```
 
 ## Example Output
+```js
 [2024-11-16T15:56:59.018Z][MyApp - LOG] This is a regular log message
 [2024-11-16T15:56:59.018Z][MyApp - INFO] This is an info message
 [2024-11-16T15:56:59.018Z][MyApp - WARN] This is a warning
@@ -77,7 +78,7 @@ logger.table(users);
 ╟──────┼─────╢
 ║ Jane │ 25  ║
 ╚══════╧═════╝
-
+```
 ## Changing Log Level
 
 You can change the log level dynamically:
